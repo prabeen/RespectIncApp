@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#070708</color>
+    <color name="colorPrimaryDark">#b0241a</color>
+    <color name="colorAccent">#b62f1b</color>
+
+
+    <color name="gradient">#a1a1a1</color>
+    <color name="red">#D8424F</color>
+    <color name="kharani">#E5E5E5</color>
+    <color name="half_white_transparent">#77FFFFFF </color>
+    <color name="white_background">#FAFAFA</color>
+    <color name="very_light_blue">#5AA0D1</color>
+    <color name="light_blue_2">#C5D3E8</color>
+    <color name="ghee_color">#EAE9CF</color>
+    <color name="milkywhite_flash">#EDEDEF</color>
+    <color name="light_blue">#7389A2B6</color>
+    <color name="light_blue_3">#655B9F</color>
+    <color name="light_blue_1">#57ACC5</color>
+    <color name="new_blue">#3F51B5</color>
+    <color name="blood_red">#f44336</color>
+    <color name="max_white">#FFFFFF</color>
+    <color name="light_black">#363636</color>
+    <color name="black1">#313739</color>
+    <color name="black">#FF000000</color>
+    <color name="blackwithtransparent">#40000000</color>
+    <color name="transparent_fifty_black">#66EAE9CF</color>
+    <color name="green">#99CC00</color>
+    <color name="spay_green">#87c48b</color>
+    <color name="spay_green_dark">#6c9d6f</color>
+    <color name="green1">#80D113</color>
+    <color name="light_green">#70c656</color>
+    <color name="milkywhite">#eeee</color>
+    <color name="milkywhite1">#e6eeee</color>
+    <color name="list_bg_color">#CCCCCC</color>
+    <color name="list_state_color">#FFFFFF</color>
+    <color name="light_white">#CACACA</color>
+    <color name="tranparent_blue">#40D3D3D3</color>
+    <!--   <color name="blue">#4285F4</color>-->
+    <color name="blue">#24648c</color>
+    <color name="blue_magic">#A3BBCD</color>
+    <color name="blue_facebook">#5A6EA2</color>
+    <color name="blue_voilet">#776F7E</color>
+    <color name="blue_white">#804CB0D9</color>
+    <color name="blue_black">#181F4A</color>
+    <color name="medium_blue">#573e7f</color>
+    <color name="dark_blue">#655B9F</color>
+    <color name="unknown">#5E5B33</color>
+    <color name="purple_light">#a276eb</color>
+    <color name="purple_middle">#8658ce</color>
+    <color name="purple_dark">#6a3ab2</color>
+    <color name="skyandwhitemix">#3D709F</color>
+    <color name="skyblue_white">#658095</color>
+    <color name="skyblue_transparent">#0A55738B</color>
+    <color name="purple">#655B9F</color>
+    <color name="dim_gray">#5A5A5A</color>
+    <color name="blue_echo">#BCC4DC</color>
+    <color name="white_transparent">#33ffffff</color>
+    <color name="iron_blue">#C3C2C3</color>
+    <color name="sky_blue">#46CDEC</color>
+    <color name="coal_color">#575757</color>
+    <color name="milkywhite_good">#E9EBEA</color>
+    <color name="chocolate">#EBEFE1</color>
+    <color name="line">#D3D3D3</color>
+    <color name="material_blue_500">#2196f3</color>
+    <color name="material_blue_700">#1976d2</color>
+    <color name="material_green_A200">#69f0ae</color>
+    <color name="spay_theme_color">#fff4ad</color>
+
+
+
+    <color name="very_light_grey">#ECF0F1</color>
+    <color name="lighter_blue">#6BADF6</color>
+    <color name="lighter_grey">#D3D3CE</color>
+    <!--    <color name="colorPrimary">#DD3333</color>
+        &lt;!&ndash;    <color name="colorPrimary">#C33A58</color>&ndash;&gt;
+        &lt;!&ndash;    <color name="colorPrimary">#3F51B5</color>&ndash;&gt;
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorAccent">#C5CAE9</color>-->
+
+    <color name="textColorPrimary">#000000</color>
+    <!--  <color name="textColorPrimary">#D3D3D3</color>-->
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+
+</resources>

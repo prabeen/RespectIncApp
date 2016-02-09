@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hamropatro="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/my_menu_refresh"
+        android:icon="@mipmap/ic_action_navigation_refresh_green_dark"
+        android:title="Refresh Data"
+        hamropatro:showAsAction="always"/>
+
+</menu>
